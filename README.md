@@ -18,7 +18,7 @@ https://docs.google.com/document/d/18ZHjOwdj-c8_NF9VUEM3ShNpnv7HCWps99x0c79or1g/
 
 ขนาดสติกเกอร์ที่ใช้ :  8.0 x 5.5  ซ.ม.^2
 
-วิธีติดตั้งไฟล์
+วิธีติดตั้งไฟล์ 
 1. ดาวน์โหลดไฟล์ StickerDetailReport-รพสต.rtm ที่ผู้จัดทำทำขึ้นจาก https://github.com/dhfpatient/-HosxP_PCU-drug-labels-sticker-with-extendel-labels แล้วเปลี่ยนชื่อไฟล์เป็น StickerDetailReport.rtm
 2. แทนที่ไฟล์ StickerDetailReport.rtm ในโฟลเดอร์ C:\Program Files (x86)\HOSxP_PCU ด้วยไฟล์ที่ดาวน์โหลดนี้ **อย่าลืมสำรองไฟล์ *.rtm เดิมก่อนแทนที่
 
